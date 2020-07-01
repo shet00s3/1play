@@ -1,0 +1,271 @@
+{
+	"notInChannel": "You must be in a voice channel to use this command.",
+	"notSameChannel": "You must be in `[channel]` to use this command",
+	"noConnectPerm": "**I don't have `CONNECT` permission to connect to `[channel]`**",
+	"noEmbedPerm": "**I don't have `Embed Links` permission in [channel] to send embed**",
+	"noReactPerm": "**I don't have `add Reactions` permission in [channel] to add reactions**",
+	"noMovePerm": "**I can't join `[channel]` cuz its full and I don't have `MOVE_MEMBERS` permission**",
+	"helpOwnerEmbed": "this bot was registered for :",
+	"botNum": "Bot Number : ",
+	"commands": "Commands List",
+	"notAuth": "Not authorized to use the command",
+	"noBot": ":rolling_eyes: You don't have any cloud bots!",
+	"restart": "**Restarting `[size]` bots it will take `[time]` minutes to restart!**",
+	"lang": "**Use the abbreviation after the command for the language you want** \nEnglish - en\nArabic - ar",
+	"vip": "**Bot number: [num]\nYour subscription ends after :** \n[time]",
+	"beingused": "I'm in use in a different channel",
+	"play": {
+		"addtoplay": "Added to begin playing",
+		"addtoqueue": "Added to Queue at position",
+		"trackFrom": "track from",
+		"loading": "loading",
+		"cantFind": "I can't find",
+		"adding": "Adding",
+		"addtoq": "added to queue",
+		"Searching": "Searching ..",
+		"command": "Play commands",
+		"songtitle": "[Song title]",
+		"url": "[URL]",
+		"playf": "play the first result from Youtube",
+		"playurl": "play the provided link, Playlist, Soundcloud, Twitter, or Insta"
+	},
+	"twitter": {
+		"private": "Sorry, I'm not authorized to see this tweet!",
+		"noVideo": "No video in this tweet",
+		"notFound": "This tweet is no longer available",
+		"error": "Something was wrong , please try again later"
+	},
+	"insta": {
+		"private": "Sorry, I'm not authorized to see this post!",
+		"notVideo": "This post is not a video!",
+		"notFound": "This post is no longer available",
+		"error": "Something was wrong , please try again later"
+	},
+	"prefix": {
+		"msg": "The prefix for this bot is : `xx` "
+	},
+	"volume": {
+		"currentVolume": "The current volume is",
+		"nonValidArgs": "**You must choose a valid args between 1 and 150**",
+		"volumeChange": "**Volume changed from `[old]` to `[new]`.**"
+	},
+	"search": {
+		"noArgs": "please enter an args!",
+		"noResults": "no results found!",
+		"searching": "searching for",
+		"results": "Search Results for"
+	},
+	"pause": {
+		"notPlaying": "Nothing played to be paused!!",
+		"pause": "Song paused!",
+		"paused": "Song already paused!"
+	},
+	"resume": {
+		"resume": "song resumed!",
+		"notrequester": "You are not the requester to resume"
+	},
+	"clear": {
+		"toLeave": "if you want me to leave the channel type `[prefix]leave` 🙄"
+	},
+	"skip": {
+		"skipped": "Skipped ",
+		"notrequester": "You are not the requester to skip"
+	},
+	"queue": {
+		"nothingPlaying": "> **🎶 Nothing in queue!**",
+		"msg": "Current Queue | [items] entries"
+	},
+	"nowplaying": {
+		"nothingPlaying": "> **🎶 Nothing playing now!**"
+	},
+	"loop": {
+		"song": "The **Song** loop mode is on",
+		"queue": "The **Queue** loop mode is on",
+		"off": "The loop mode is off"
+	},
+	"leave": {
+		"notrequester": "You are not the requester",
+		"msg": "Successfully disconnected"
+	},
+	"seek": {
+		"notValid": "Not a valid form"
+	},
+	"setname": {
+		"long": "**Names must be between 2 and 32 characters long.**",
+		"substrings": "**Names cannot contain the following substrings: '@', '#', ':', '```'.**",
+		"disctag": "**Names cannot be: `discordtag`, `everyone` or `here`.**",
+		"premium": "This command only for Premium",
+		"samename": "sorry, I am already use this name!"
+	},
+	"setavatar": {
+		"noArgs": "You should send the image or send a valid url",
+		"toFast": "You are changing your avatar too fast. try again later",
+		"premium": "This command only for Premium",
+		"notValid": "Not a valid url",
+		"changing": "**Changing ...** (This may take a while due to discord restrictions)"
+	},
+	"help": {
+		"Play": "Play the song and add it to queue or resume it [p]",
+		"Pause": "Pause the song ",
+		"Resume": "Resume the song",
+		"Queue": "Displays the queue",
+		"Skip": "Skip to the next song or any song in queue",
+		"Back": "Back to the previous song",
+		"Volume": "Change the volume [vol]",
+		"Nowplaying": "Displays info about the song [np]",
+		"Clear": "Remove the queue and stop the song",
+		"Clean": "Clean bot message and any message related to the bot commands",
+		"Ping": "Get the bot latency",
+		"Loop": "Repeat the queue or the song",
+		"Shuffle": "Shuffles the queue",
+		"Move": "Move a song to the top of the queue or to specific position",
+		"Removeduplicate": "Remove duplicate songs from queue",
+		"Leave": "Leave the channel",
+		"Search": "Search in Youtube",
+		"Seek": "Change the position of the track or to specific time",
+		"Prefix": "Displays the bot server prefix or change it",
+		"Perms": "Displays the permissions of a user or role",
+		"allow": "Allow a user or role from using the bot",
+		"Deny": "Deny a user or role from using the bot",
+		"topmusic": "Show Must hear music in your bot or server or Lyra Cloud",
+		"texttoggle": "Denied the bot from responding in specific channels",
+		"setlang": "Change the bot language",
+		"addadmin": "Add admin to your bot 'You can use the main bot to add the admin to all bots'",
+		"deladmin": "Remove admin from your bot 'You can use the main bot to remove the admin from all bots'",
+		"addserver": "Allow the bot enter the server 'You can use the main bot to allow the server to all bots'",
+		"connect": "Make all of your bots data like this bot except the prefix",
+		"vip": "Show subscription end date"
+	},
+	"perms": {
+		"permissions": "Permissions",
+		"allowed": "allowed",
+		"denied": "denied",
+		"role": "role",
+		"by": "by",
+		"id": "id",
+		"on": "on",
+		"choose": "Please mention user/role or type a role name!"
+	},
+	"shuffle": {
+		"noSongs": "**Nothing in queue to shuffle!**",
+		"oneSongs": "**You only have one song in the queue!**",
+		"shuffled": "**You successfully shuffled your [size] entries.**"
+	},
+	"addserver": {
+		"done": "successfully added to allowed servers",
+		"url": "Pelase enter a valid dsicord invite URL",
+		"already": "already allowed in your",
+		"new": "Your new server",
+		"noargs": "Please include an ID or invite link ",
+		"addto": "has been added to",
+		"bots": "bots"
+	},
+	"types": {
+		"choose": "Please write a permissions ",
+		"cantFind": "I can't find [xx] role"
+	},
+	"ping": {
+		"ping": "Pinging..",
+		"letency": "latency is",
+		"api": "API latency is",
+		"ms": "ms"
+	},
+	"setgame": {
+		"msg": "Please enter a new game"
+	},
+	"addadmin": {
+		"noargs": ":x: Please include an ID or mention",
+		"notfound": ":x: **i can't find this user.**",
+		"addto": "has been added to",
+		"already": "already is admin to your",
+		"already2": "already admin to this bot",
+		"bots": "bots",
+		"add": "has been added as admin to this bot!"
+	},
+	"deladmin": {
+		"noargs": ":x: Please include an ID or mention",
+		"notfound": ":x: **i can't find this user.**",
+		"removefrom": "has been removed from",
+		"already": "already not admin in",
+		"already2": "already not admin in this bot",
+		"bots": "bots",
+		"delete": "has been removed from this bot!"
+	},
+	"connect": {
+		"noOtherBot": "You don't have any other bot in this server",
+		"botlen": "Are you sure you want to apply this bot settings to another **[B.len]** bots ? type **yes** to confirm.",
+		"change": "Settings has been changed for your another **[B.len]** bots."
+	},
+	"textToggle": {
+		"noChannels": "You didn't denied any channel!",
+		"channelsList": "This channel/s is/are denied by admins",
+		"channelRemoved": "`[channelName]` has been removed from denied channels!",
+		"channelAdded": "`[channelName]` has been added to denied channels!"
+	},
+	"topMusic": {
+		"noRecords": "There are no records yet!",
+		"count": "[x] time/s",
+		"topTitleGlobal": "Top [count] played music in Lyra cloud bots",
+		"topTitleGuild": "Top [count] played music in [guild]",
+		"topTitleBot": "Top [count] played music in [bot] bot"
+	},
+	"move": {
+		"spec": "[Song number]",
+		"des": "[from number] [to number]",
+		"one": "There's only one song in queue"
+	},
+	"removedup": {
+		"removed": "Removed **[size]** Song's from queue",
+		"zero": "There is no duplicate songs"
+	},
+	"playlists": {
+		"show": {
+			"empty": "You don't have any playlist!",
+			"showTitle": "You have {0} playlist/s",
+			"checkName": "Check your playlist name!",
+			"showPLTitle": "You have {0} video/s in `{1}`:",
+			"emptyPL": "This playlist is empty!"
+		},
+		"share": {
+			"noArgs": "Please enter playlist name to share it link!",
+			"link": "Your playlist is public now: {0}",
+			"locked": "Your playlist is private now."
+		},
+		"create": {
+			"noName": "Please enter playlist name with command!",
+			"exist": "You can't have playlists with the same name!",
+			"created": "`{0}` playlist created!"
+		},
+		"import": {
+			"checkArgs": "Please enter playlist name and Lyra playlist link with command!",
+			"checkLink": "include a valid Lyra playlist link after playlist's name!",
+			"notFound": "This playlist does not exist!",
+			"sameAuthor": "You can't import a playlist you have made!??",
+			"private": "This playlist is private!",
+			"empty": "This playlist is empty!",
+			"imported": "`{0}` video/s imported successfully from [`{1}`] to `{2}`"
+		},
+		"add": {
+			"checkArgs": "Please enter playlist name and link with command to add it!",
+			"checkName": "Check your playlist name!",
+			"notSupported": "We support only YouTube for playlists links",
+			"checkLink": "include a valid link after playlist's name!",
+			"duplicate": "This video already in this playlist!",
+			"stream": "You can't add streaming links to playlist!",
+			"addedOne": "`{0}, added to your {1} playlist",
+			"duplicateMany": "All videos in `{0}` are already in this playlist",
+			"addedMany": "I have added `{0}` video/s to [{1}] from [{2}]"
+		},
+		"delete": {
+			"noArgs": "Please enter playlist name with command!",
+			"checkName": "you don't have playlist called {0}!",
+			"deleted": "`{0}` was deleted!"
+		},
+		"play": {
+			"noArgs": "Please enter playlist name with command!",
+			"checkName": "you don't have playlist called {0}!",
+			"empty": "This playlist is empty!",
+			"playing": ":fire: {0} video/s added to queue from `{1}` playlist"
+		}
+	}
+}

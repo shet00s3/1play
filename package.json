@@ -1,0 +1,19 @@
+{
+  "name": "lyra-translations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadf16/Lyra-Translations.git"
+  },
+  "author": "Ahmad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmadf16/Lyra-Translations/issues"
+  },
+  "homepage": "https://github.com/ahmadf16/Lyra-Translations#readme"
+}
